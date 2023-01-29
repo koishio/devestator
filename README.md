@@ -14,7 +14,7 @@
 ## 安装:
 
 1. 将项目拉取到本地(或从Releases界面下载打包好的压缩文件)
-2. 解压下载好的压缩文件(如果你是从Releases界面下载的)
+2. 解压下载好的压缩文件(如果你不是从Releases界面下载的话，不用进行此操作)
 2. 将`assets\minecraft\textures\item\skin.png`替换为你的皮肤
 3. 将`assets\minecraft\textures\item\cape.png`替换为你的披风(可选)
 5. 
