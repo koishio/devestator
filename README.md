@@ -1,2 +1,31 @@
-# devestator
-修改不死图腾为玩家皮肤的资源包
+# devastator
+
+## 介绍:
+
+一个资源包  
+将不死图腾替换为玩家皮肤程度的能力
+
+## 背景:
+
+某天突发奇想，想把不死图腾改成自己的皮肤。  
+一开始想要照着皮肤文件复制，但是有种怪怪的感觉  
+后来在 B 站看到了[这篇文章](https://www.bilibili.com/read/cv20390291)，受到启发，做出了这个资源包。
+
+## 安装:
+
+1. 将项目拉取到本地(或从Releases界面下载打包好的压缩文件)
+2. 解压下载好的压缩文件(如果你是从Releases界面下载的)
+2. 将`assets\minecraft\textures\item\skin.png`替换为你的皮肤
+3. 将`assets\minecraft\textures\item\cape.png`替换为你的披风(可选)
+5. 
+4. 将`assets`文件夹，`pack.mcmeta`文件和`pack.png`
+4. 将此文件夹移动到 Minecraft 资源包文件夹，进入游戏后选中资源包即可。
+
+## 特别鸣谢
+
+Bilibili 用户：[CubberMiao(UID: 1377157783)](https://space.bilibili.com/1377157783)提供了灵感和方向  
+[Blockbench](https://www.blockbench.net/)提供了建模工具  
+[Microsoft](https://learn.microsoft.com/zh-cn/minecraft/creator/documents/addcustomdieblock)提供了 Blockbench 的使用教程
+[MinecraftWiki](https://minecraft.fandom.com/zh/wiki/教程/制作资源包)提供了资源包的制作方法
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
