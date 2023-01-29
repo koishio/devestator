@@ -18,8 +18,8 @@
 2. 将`assets\minecraft\textures\item\skin.png`替换为你的皮肤
 3. 将`assets\minecraft\textures\item\cape.png`替换为你的披风(可选)
 5. 
-4. 将`assets`文件夹，`pack.mcmeta`文件和`pack.png`
-4. 将此文件夹移动到 Minecraft 资源包文件夹，进入游戏后选中资源包即可。
+4. 将`assets`文件夹，`pack.mcmeta`文件和`pack.png`压缩，
+4. 将此压缩文件移动到 Minecraft 资源包文件夹，进入游戏后选中资源包即可。
 
 ## 特别鸣谢
 
