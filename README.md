@@ -21,6 +21,14 @@
 6. 将`assets`文件夹，`pack.mcmeta`文件和`pack.png`压缩
 7. 将此压缩文件移动到 Minecraft 资源包文件夹，进入游戏后应用资源包即可。
 
+## 其它
+
+Releases版本格式:  
+`\<Minecraft版本\>-\<资源包版本\>`  
+例如，在1.19.3工作的1.0版资源包的版本为:  
+`1.19.3-1.0`  
+  
+目前没有找到将资源包迁移到基岩版的方法。
 ## 特别鸣谢
 
 Bilibili 用户：[CubberMiao(UID: 1377157783)](https://space.bilibili.com/1377157783)提供了灵感和方向  
