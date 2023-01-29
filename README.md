@@ -25,7 +25,7 @@
 
 Bilibili 用户：[CubberMiao(UID: 1377157783)](https://space.bilibili.com/1377157783)提供了灵感和方向  
 [Blockbench](https://www.blockbench.net/)提供了建模工具  
-[Microsoft](https://learn.microsoft.com/zh-cn/minecraft/creator/documents/addcustomdieblock)提供了 Blockbench 的使用教程
+[Microsoft](https://learn.microsoft.com/zh-cn/minecraft/creator/documents/addcustomdieblock)提供了 Blockbench 的使用教程  
 [MinecraftWiki](https://minecraft.fandom.com/zh/wiki/教程/制作资源包)提供了资源包的制作方法
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
